@@ -23,8 +23,18 @@ from GmailBox import GmailBox
 
 Gmail = GmailBox()
 ```
-
-## Installing
+## Generate a random Gmail
+``` python
+New_Gmail = Gmail.newEmail()
+print(New_Gmail)
+```
+## to get the inbox
+``` python
+email = New_Gmail['email']
+inbox = Gmail.inbox(email)
+print(inbox)
+```
+### Installing
 
 ``` bash
 pip3 install GmailBox
