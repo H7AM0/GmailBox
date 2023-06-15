@@ -3,7 +3,7 @@
         <img src="https://telegra.ph/file/19f7cbbf3959941cda6b5.jpg" alt="Hamo" width="128">
     </a>
     <br>
-    <b>create random Gmail and receive messages</b>
+    <b>Hamo • حـمــو</b>
     <br>
     <a href="https://www.instagram.com/4.4cq/">
         instagram
