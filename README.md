@@ -14,15 +14,17 @@
     </a>
 </p>
 
-## GmailBox
+# GmailBox
 
 > With this library, you can create random Gmail and receive messages
 
 ``` python
 from GmailBox import GmailBox
+
+Gmail = GmailBox()
 ```
 
-### Installing
+## Installing
 
 ``` bash
 pip3 install GmailBox
