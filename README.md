@@ -6,11 +6,11 @@
     <b>Hamo • حـمــو</b>
     <br>
     <a href="https://www.instagram.com/4.4cq/">
-        instagram
+        Instagram
     </a>
-    •
-    <a href="https://t.me/pyrogram">
-        News
+     • 
+    <a href="https://t.me/hamo_back">
+        Telegram
     </a>
 </p>
 
