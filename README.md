@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/H7AM0/GmailBox">
-        <img src="https://telegra.ph/file/19f7cbbf3959941cda6b5.jpg" alt="Hamo" width="128">
+        <img src="resources/hamo.png" alt="Hamo" width="128">
     </a>
     <br>
     <b>Hamo • حـمــو</b>
