@@ -39,3 +39,5 @@ print(inbox)
 ``` bash
 pip3 install GmailBox
 ```
+### On Pypi
+* <a href="https://pypi.org/project/GmailBox">GmailBox</a>
