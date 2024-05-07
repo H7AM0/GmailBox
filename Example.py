@@ -1,16 +1,13 @@
-import sys,time
-def jalan(z):
-    for e in z + '\n':
-        sys.stdout.write(e)
-        sys.stdout.flush()
-        time.sleep(00000.009)
 
-logo = '\n\n\n\n\t\t░░░░░▄▄▀▀▀▀▀▀▀▀▀▄▄░░░░░\n\t\t░░░░█░░░░░░░░░░░░░█░░░░\n\t\t░░░█░░░░░░░░░░▄▄▄░░█░░░\n\t\t░░░█░░▄▄▄░░▄░░███░░█░░░\n\t\t░░░▄█░▄░░░▀▀▀░░░▄░█▄░░░\n\t\t░░░█░░▀█▀█▀█▀█▀█▀░░█░░░\n\t\t░░░▄██▄▄▀▀▀▀▀▀▀▄▄██▄░░░\n\t\t░▄█░█▀▀█▀▀▀█▀▀▀█▀▀█░█▄░'
-jalan(logo)
-jalan('\x1b[1;36m \t\t░░░╔╗╔╗╔══╗╔═╦═╗╔═╗░░░░░░░░\n\t\t░░░║╚╝║║╔╗║║║║║║║║║░░░░░░░░\n\t\t░░░║╔╗║║╠╣║║║║║║║║║░░░░░░░░\n\t\t░░░╚╝╚╝╚╝╚╝╚╩═╩╝╚═╝░░░░░░░░\n\n\n')
 ####################################
-##### pip install GmailBox==0.0.3
+## Author : Mohamed Ahmed Amer | Hamo
+## Github : https://github.com/H7AM0
+## Telegram : https://t.me/hamo_back
+## Instagram : https://instagram.com/4.4cq/
 ####################################
+##### pip install GmailBox==0.0.6
+####################################
+
 from GmailBox import GmailBox
 
 
