@@ -14,7 +14,7 @@
     </a>
 </p>
 
-# GmailBox
+# GmailBox 0.0.6
 
 > With this library, you can create random Gmail and receive messages
 
@@ -25,7 +25,7 @@ Gmail = GmailBox()
 ```
 ## Generate a random Gmail
 ``` python
-New_Gmail = Gmail.newEmail()
+New_Gmail = Gmail.new_email()
 print(New_Gmail)
 ```
 ## to get the inbox
