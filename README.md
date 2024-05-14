@@ -14,7 +14,7 @@
     </a>
 </p>
 
-# GmailBox 0.0.6
+# GmailBox 0.0.8
 
 > With this library, you can create random Gmail and receive messages
 
