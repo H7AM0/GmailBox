@@ -2,11 +2,11 @@
 
 > With this library, you can create random Gmail and receive messages
 
-# Install :
+## Install :
 ```commandline
 pip install -U GmailBox
 ```
-# How to use?
+## How to use?
 - Here an example to use it:
 ```python
 from GmailBox import GmailBox
