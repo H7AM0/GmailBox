@@ -60,7 +60,7 @@ async def main():
 # Run the main function
 asyncio.run(main())
 ```
-### On Pypi
+## On Pypi
 * <a href="https://pypi.org/project/GmailBox">GmailBox</a>
 ## Author
 <p align="center">
