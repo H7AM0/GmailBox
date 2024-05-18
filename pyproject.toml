@@ -1,0 +1,34 @@
+[project]
+name = "GmailBox"
+version = "0.0.9"
+author = [
+  { name="Mohamed Ahmed Amer", nickname="Hamo" }
+]
+description = "With this library, you can create random Gmail and receive messages"
+readme = "README.md"
+keywords = [
+    "gmail",
+    "mail",
+    "GmailBox",
+    "inbox",
+    "email",
+    "Tempmail",
+    "Tempgmail"
+]
+classifiers=[
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)",
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    'requests',
+    'beautifulsoup4',
+    "aiohttp",
+    "asyncio"
+]
+
+[project.urls]
+Homepage = "https://github.com/H7AM0/GmailBox"
+Issues = "https://github.com/H7AM0/GmailBox/issues"
