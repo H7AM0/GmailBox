@@ -71,3 +71,7 @@ asyncio.run(main())
     <b>Hamo • حـمــو</b>
     <br>
 </p>
+
+### To contact the author
+* <a href="https://instagram.com/4.4cq">Instagram</a>
+* <a href="https://t.me/hamo_back">Telegram</a>
