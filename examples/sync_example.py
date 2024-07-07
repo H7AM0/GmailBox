@@ -4,7 +4,7 @@
 ## Telegram : https://t.me/hamo_back
 ## Instagram : https://instagram.com/4.4cq/
 ####################################
-##### pip install GmailBox==0.0.9
+##### pip install GmailBox==1.0.0
 ####################################
 
 from GmailBox import GmailBox
