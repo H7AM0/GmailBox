@@ -16,6 +16,7 @@ Gmail = GmailBox()
 # Create a new gmail
 New_Gmail = Gmail.new_email()
 email = New_Gmail.email
+print(email)
 
 # Start checking the inbox
 inbox = Gmail.inbox(email)
@@ -43,7 +44,8 @@ async def main():
     # Create a new gmail
     New_Gmail = await Gmail.new_email()
     email = New_Gmail.email
-
+    print(email)
+    
     # Start checking the inbox
     inbox = await Gmail.inbox(email)
 
