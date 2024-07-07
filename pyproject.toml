@@ -1,6 +1,6 @@
 [project]
 name = "GmailBox"
-version = "0.0.9"
+version = "1.0.0"
 author = [
   { name="Mohamed Ahmed Amer", nickname="Hamo - حـمــو" }
 ]
