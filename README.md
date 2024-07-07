@@ -71,12 +71,13 @@ asyncio.run(main())
     </a>
     <br>
     <b>Hamo • حـمــو</b>
-   <br>
+    <br>
     <a href="https://www.instagram.com/4.4cq/">
-        in <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="24">
+        Instagram <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="20">
     </a>
-     • 
+    • 
     <a href="https://t.me/hamo_back">
-        in <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="24">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="20"> Telegram
     </a>
 </p>
+
