@@ -1,3 +1,6 @@
+
+import warnings
+warnings.filterwarnings("ignore", category=ResourceWarning)
 import aiohttp
 import ssl
 import certifi
