@@ -1,6 +1,6 @@
 # GmailBox
 
-> With this library, you can create random Gmail and receive messages
+> Using this library, you can create a random temporary Gmail and receive messages.
 
 ## Install :
 ```commandline
