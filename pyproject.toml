@@ -2,7 +2,7 @@
 name = "GmailBox"
 version = "1.0.0"
 author = [
-  { name="Mohamed Ahmed Amer", nickname="Hamo - حـمــو" }
+  { name="Mohamed Ahmed Amer" }
 ]
 description = "With this library, you can create random Gmail and receive messages"
 readme = "README.md"
